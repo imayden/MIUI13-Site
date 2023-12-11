@@ -5,7 +5,7 @@ This website is a mirrored version of the official MIUI 13 website, initially de
 
 - **Launch Date**: December 2021
 - **Region**: China
-- **Website Design**: Xiaomi HyperOS Team, with significant contributions from Ayden Deng
+- **Website Design**: Xiaomi MIUI (Now is HyperOS) Team, with significant contributions from Ayden Deng
 
 ## Website Access
 - To experience the website fully, please visit [https://miui13.home.miui.com/](https://miui13.home.miui.com/).

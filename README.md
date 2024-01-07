@@ -1,4 +1,4 @@
-# MIUI 13 Mirror Website
+# MIUI 13 Showcase Mirror Website
 ---
 
 ![Cover](Social-Cover.png)
@@ -6,7 +6,7 @@
 ---
 
 ## Website Overview
-This website is a mirrored version of the official MIUI 13 website, initially designed by the Xiaomi MIUI Team (now renamed as the Xiaomi HyperOS Team). Ayden Deng was one of the core designers for this site.
+This website is a mirrored version of the official MIUI 13 showcase website, initially designed by the Xiaomi MIUI Team (now renamed as the Xiaomi HyperOS Team). Ayden Deng was one of the core designers for this site.
 
 - **Launch Date**: December 2021
 - **Region**: China
